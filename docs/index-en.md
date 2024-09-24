@@ -64,13 +64,13 @@
 <li> Click <a href = "https://computenest.console.aliyun.com/service/instance/create/cn-hangzhou?type=user&ServiceId=service-f462f9b21cb7477381f0"> Deployment Link </a> to go to the Service Instance Deployment page. </li>
 <li><p> Select the new ECS instance and configure the parameters according to the interface prompts. After the configuration is complete, click Next: Confirm Order. </p>
 
-<p><img src="1.jpg" width="1400" align="bottom"/></p></li>
+<p><img src="en_1.jpg" width="1400" align="bottom"/></p></li>
 <li><p> Click Create Now and wait for the service instance to be created. </p>
 
-<p><img src="2.jpg" width="1400" align="bottom"/></p></li>
+<p><img src="en_2.jpg" width="1400" align="bottom"/></p></li>
 <li><p> After the service instance is successfully created, go to the service instance details page. The Flowise login information is available on the Overview page. </p>
 
-<p><img src="3.jpg" width="1400" align="bottom"/></p></li>
+<p><img src="en_3.jpg" width="1400" align="bottom"/></p></li>
 <li><p> Click the external network panel address to access the Flowise service. </p>
 
 <p><img src="4.jpg" width="1400" align="bottom"/></p></li>
