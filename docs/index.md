@@ -45,7 +45,7 @@ Flowise服务需要对ECS、VPC等资源进行访问和创建操作，若您使�
 3. 点击立即创建，等待服务实例创建完成。
 
    <img src="2.jpg" width="1400" align="bottom"/>
-
+   
 4. 服务实例创建成功后，进入服务实例详情页。在概览页可获取Flowise登录信息。
    
    <img src="3.jpg" width="1400" align="bottom"/>
